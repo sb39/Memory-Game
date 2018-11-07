@@ -38,6 +38,7 @@ window.onload = startGame();
 function startGame() {
         //a new deck of cards is shuffled for every game
     var shuffleCards = shuffle(cards);
+    chosenCards = [];
     for (var i = 0; i < shuffleCards.length; i++) {
         deck.innerHTML = "";
         [].forEach.call(cards, function(item){
