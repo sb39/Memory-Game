@@ -16,8 +16,8 @@
 2. more than 20 - reduce 1 star (1 left)
 ```
 ## dependencies 
-```
+
 1. [Jquery](https://jquery.com/)
 2. [Fontawesome](https://fontawesome.com/icons)
 3. [Google Fonts](https://fonts.google.com)
-```
+
