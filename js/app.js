@@ -13,7 +13,7 @@ var chosenCards = [];    // for chosen cards -- 2 @ a time.
 //cards 
 var card = document.getElementsByClassName("card");
 const cards = [...card];
-console.log(cards);
+
 
 //deck
 const deck = document.querySelector("#card-deck");
